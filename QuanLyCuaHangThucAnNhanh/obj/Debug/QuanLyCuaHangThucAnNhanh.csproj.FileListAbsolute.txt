@@ -1,0 +1,60 @@
+C:\Users\KHANH_HOA\documents\visual studio 2017\Projects\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csprojResolveAssemblyReference.cache
+C:\Users\KHANH_HOA\documents\visual studio 2017\Projects\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.flogin.resources
+C:\Users\KHANH_HOA\documents\visual studio 2017\Projects\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.Properties.Resources.resources
+C:\Users\KHANH_HOA\documents\visual studio 2017\Projects\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.GenerateResource.Cache
+C:\Users\KHANH_HOA\documents\visual studio 2017\Projects\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.exe.config
+C:\Users\KHANH_HOA\documents\visual studio 2017\Projects\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.exe
+C:\Users\KHANH_HOA\documents\visual studio 2017\Projects\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.pdb
+C:\Users\KHANH_HOA\documents\visual studio 2017\Projects\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.exe
+C:\Users\KHANH_HOA\documents\visual studio 2017\Projects\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.pdb
+C:\Users\KHANH_HOA\documents\visual studio 2017\Projects\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.fmain.resources
+D:\Khanh Hoa\Hoc tap\HK5\Hoc xi-sáp\Do-An\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csprojResolveAssemblyReference.cache
+D:\Khanh Hoa\Hoc tap\HK5\Hoc xi-sáp\Do-An\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.flogin.resources
+D:\Khanh Hoa\Hoc tap\HK5\Hoc xi-sáp\Do-An\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.fmain.resources
+D:\Khanh Hoa\Hoc tap\HK5\Hoc xi-sáp\Do-An\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.Properties.Resources.resources
+D:\Khanh Hoa\Hoc tap\HK5\Hoc xi-sáp\Do-An\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.GenerateResource.Cache
+D:\Khanh Hoa\Hoc tap\HK5\Hoc xi-sáp\Do-An\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.exe
+D:\Khanh Hoa\Hoc tap\HK5\Hoc xi-sáp\Do-An\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.pdb
+D:\Khanh Hoa\Hoc tap\HK5\Hoc xi-sáp\Do-An\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.exe.config
+D:\Khanh Hoa\Hoc tap\HK5\Hoc xi-sáp\Do-An\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.exe
+D:\Khanh Hoa\Hoc tap\HK5\Hoc xi-sáp\Do-An\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.pdb
+D:\Khanh Hoa\Hoc tap\HK5\Hoc xi-sáp\Do-An\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.DoiMatKhau.resources
+D:\Khanh Hoa\Hoc tap\HK5\Hoc xi-sáp\Do-An\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.ThemTaiKhoan.resources
+D:\Khanh Hoa\Hoc tap\HK5\Hoc xi-sáp\Do-An\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CoreCompileInputs.cache
+D:\Khanh Hoa\Hoc tap\HK5\Hoc xi-sáp\Do-An\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.ThongKeDonHang.resources
+C:\Users\KHANH_HOA\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.exe.config
+C:\Users\KHANH_HOA\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.exe
+C:\Users\KHANH_HOA\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.pdb
+C:\Users\KHANH_HOA\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csprojResolveAssemblyReference.cache
+C:\Users\KHANH_HOA\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.DoiMatKhau.resources
+C:\Users\KHANH_HOA\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.flogin.resources
+C:\Users\KHANH_HOA\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.fmain.resources
+C:\Users\KHANH_HOA\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.Properties.Resources.resources
+C:\Users\KHANH_HOA\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.ThemTaiKhoan.resources
+C:\Users\KHANH_HOA\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.ThongKeDonHang.resources
+C:\Users\KHANH_HOA\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.GenerateResource.Cache
+C:\Users\KHANH_HOA\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.CoreCompileInputs.cache
+C:\Users\KHANH_HOA\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.exe
+C:\Users\KHANH_HOA\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.pdb
+C:\Users\KHANH_HOA\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.MonAn.resources
+C:\Users\KHANH_HOA\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.ThemNhanVien.resources
+C:\Users\KHANH_HOA\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.ThongKeDHTheoKhachHang.resources
+C:\Users\KHANH_HOA\Desktop\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.QL_TaiKhoan.resources
+D:\3th_year\NMCNPM\BaoCao\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.exe.config
+D:\3th_year\NMCNPM\BaoCao\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.exe
+D:\3th_year\NMCNPM\BaoCao\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.pdb
+D:\3th_year\NMCNPM\BaoCao\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csprojResolveAssemblyReference.cache
+D:\3th_year\NMCNPM\BaoCao\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.DoiMatKhau.resources
+D:\3th_year\NMCNPM\BaoCao\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.flogin.resources
+D:\3th_year\NMCNPM\BaoCao\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.fmain.resources
+D:\3th_year\NMCNPM\BaoCao\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.MonAn.resources
+D:\3th_year\NMCNPM\BaoCao\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.Properties.Resources.resources
+D:\3th_year\NMCNPM\BaoCao\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.QL_TaiKhoan.resources
+D:\3th_year\NMCNPM\BaoCao\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.ThemNhanVien.resources
+D:\3th_year\NMCNPM\BaoCao\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.ThemTaiKhoan.resources
+D:\3th_year\NMCNPM\BaoCao\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.ThongKeDHTheoKhachHang.resources
+D:\3th_year\NMCNPM\BaoCao\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.ThongKeDonHang.resources
+D:\3th_year\NMCNPM\BaoCao\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.csproj.GenerateResource.Cache
+D:\3th_year\HK1_3Year\NMCNPM\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\bin\Debug\QuanLyCuaHangThucAnNhanh.exe.config
+D:\3th_year\HK1_3Year\NMCNPM\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.exe
+D:\3th_year\HK1_3Year\NMCNPM\QuanLyCuaHangThucAnNhanh\QuanLyCuaHangThucAnNhanh\obj\Debug\QuanLyCuaHangThucAnNhanh.pdb
